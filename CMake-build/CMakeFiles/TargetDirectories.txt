@@ -1,0 +1,3 @@
+/home/danil/VSCode/С++/prodject/RegEnterprise/build/CMakeFiles/RegEnterprise.dir
+/home/danil/VSCode/С++/prodject/RegEnterprise/build/CMakeFiles/edit_cache.dir
+/home/danil/VSCode/С++/prodject/RegEnterprise/build/CMakeFiles/rebuild_cache.dir
