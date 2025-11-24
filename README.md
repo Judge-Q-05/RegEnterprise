@@ -28,7 +28,8 @@
 ![alt text](<Схема bd_ent.png>)
 
 ### Схема отображения классов в реляционную модель:
-![alt text](image.png)
+<img width="3171" height="1503" alt="image" src="https://github.com/user-attachments/assets/9f9afb5a-0e21-4269-a2c9-1cd5ad4defdc" />
+
 
 ## Структура проекта
 
